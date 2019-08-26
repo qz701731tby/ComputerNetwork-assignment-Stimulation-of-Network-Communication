@@ -1,5 +1,5 @@
 # ComputerNetwork-assignment-Stimulation-of-Network-Communication
-In this project, I stimulate network communication based on stop-and-wait protocal and GBN protocal using C++.
+In this project, I stimulate network communication based on stop-and-wait protocal and GBN protocal using socket to stimulate transmission.
 
 Stop-and-wait protocal has receiver and sender.
 
